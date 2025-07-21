@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
