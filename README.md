@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dwonn201/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/dwonn201/LeetCode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/dwonn201/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
