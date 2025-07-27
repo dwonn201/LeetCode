@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/dwonn201/LeetCode/tree/master/0626-exchange-seats) |
 | [1523-capital-gainloss](https://github.com/dwonn201/LeetCode/tree/master/1523-capital-gainloss) |
 | [3711-first-letter-capitalization-ii](https://github.com/dwonn201/LeetCode/tree/master/3711-first-letter-capitalization-ii) |
+| [3816-dna-pattern-recognition](https://github.com/dwonn201/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## Hash Table
 |  |
 | ------- |
