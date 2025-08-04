@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/dwonn201/LeetCode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -82,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/dwonn201/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dwonn201/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
