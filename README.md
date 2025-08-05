@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/dwonn201/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dwonn201/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/dwonn201/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dwonn201/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dwonn201/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dwonn201/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/dwonn201/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dwonn201/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
