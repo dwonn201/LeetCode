@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dwonn201/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0290-word-pattern](https://github.com/dwonn201/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dwonn201/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dwonn201/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
