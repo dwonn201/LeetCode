@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dwonn201/LeetCode/tree/master/0011-container-with-most-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dwonn201/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dwonn201/LeetCode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/dwonn201/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dwonn201/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dwonn201/LeetCode/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dwonn201/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
