@@ -1,10 +1,12 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        k = 0  # points to the position to overwrite
-        for i in range(len(nums)):
-            if nums[i] != val:
-                nums[k] = nums[i]
-                k += 1
+        n = len(nums)
+        i = 0
+        for j in range(n):
+            if nums[j] != val:
+                nums[i] = nums[j]
+                i += 1
+        return i
 
-        return k
+
 
