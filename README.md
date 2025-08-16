@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dwonn201/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dwonn201/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/dwonn201/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dwonn201/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/dwonn201/LeetCode/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/dwonn201/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dwonn201/LeetCode/tree/master/0292-nim-game) |
