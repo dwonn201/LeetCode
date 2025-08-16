@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dwonn201/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dwonn201/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dwonn201/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/dwonn201/LeetCode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dwonn201/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dwonn201/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dwonn201/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dwonn201/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/dwonn201/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/dwonn201/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dwonn201/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
