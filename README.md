@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dwonn201/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dwonn201/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dwonn201/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/dwonn201/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dwonn201/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dwonn201/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dwonn201/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/dwonn201/LeetCode/tree/master/0367-valid-perfect-square) |
