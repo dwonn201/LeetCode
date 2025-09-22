@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dwonn201/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dwonn201/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/dwonn201/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/dwonn201/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dwonn201/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dwonn201/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dwonn201/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/dwonn201/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dwonn201/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/dwonn201/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/dwonn201/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dwonn201/LeetCode/tree/master/0292-nim-game) |
