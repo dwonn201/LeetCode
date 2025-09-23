@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dwonn201/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dwonn201/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dwonn201/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/dwonn201/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dwonn201/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dwonn201/LeetCode/tree/master/0342-power-of-four) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dwonn201/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dwonn201/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dwonn201/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/dwonn201/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dwonn201/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dwonn201/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dwonn201/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dwonn201/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dwonn201/LeetCode/tree/master/0342-power-of-four) |
 ## Breadth-First Search
