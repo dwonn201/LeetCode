@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/dwonn201/LeetCode/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/dwonn201/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dwonn201/LeetCode/tree/master/0290-word-pattern) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dwonn201/LeetCode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/dwonn201/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dwonn201/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dwonn201/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dwonn201/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dwonn201/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/dwonn201/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dwonn201/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dwonn201/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dwonn201/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
