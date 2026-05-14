@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/dwonn201/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dwonn201/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/dwonn201/LeetCode/tree/master/1523-capital-gainloss) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dwonn201/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/dwonn201/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dwonn201/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3711-first-letter-capitalization-ii](https://github.com/dwonn201/LeetCode/tree/master/3711-first-letter-capitalization-ii) |
