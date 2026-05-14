@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/dwonn201/LeetCode/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/dwonn201/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/dwonn201/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/dwonn201/LeetCode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/dwonn201/LeetCode/tree/master/0608-tree-node) |
