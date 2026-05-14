@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/dwonn201/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/dwonn201/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dwonn201/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/dwonn201/LeetCode/tree/master/1934-confirmation-rate) |
 | [3711-first-letter-capitalization-ii](https://github.com/dwonn201/LeetCode/tree/master/3711-first-letter-capitalization-ii) |
 | [3816-dna-pattern-recognition](https://github.com/dwonn201/LeetCode/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/dwonn201/LeetCode/tree/master/3848-analyze-subscription-conversion) |
